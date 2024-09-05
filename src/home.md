@@ -20,6 +20,7 @@ $y=mx+c$
 2. Numbered list 2
 - [ ] Checkbox 1
 - [x] Checkbox 2
+
 $$
 y=mx+c
 $$
