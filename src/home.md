@@ -24,6 +24,13 @@ $y=mx+c$
 $$
 y=mx+c
 $$
+
+| No. | Nama |
+| --- | ---- |
+| 1   | Satu |
+| 2   | Dua  |
+| 3   | Tiga |
+
 [[1. Pendahuluan]]
 [Good video](https://youtu.be/dQw4w9WgXcQ?si=VJAM_z2cjPQmP2Uk)
 ![[Pasted image 20240905112518.png]]
